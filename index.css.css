@@ -1,0 +1,26 @@
+.text-center{
+	text-align:center;
+}
+
+.btn-round{
+	border-radius: 30px;
+}
+
+.bg-image{
+	background-size: cover;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	background-image: url('https://static1.squarespace.com/static/51c748abe4b0c275d0aa86bf/56141f2be4b0a4afc2d17505/5792633244024387a8baba0b/1469211556386/pour-over-coffee-980.gif?format=1000w')
+}
+
+.text-white{
+	color:white;
+	text-shadow: 2px 2px 5px black;
+}
+
+.row2{
+	text-align: center;
+}
+
+
+
